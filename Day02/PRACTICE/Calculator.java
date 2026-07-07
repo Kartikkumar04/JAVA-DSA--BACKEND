@@ -10,7 +10,7 @@ public class Calculator {
         System.out.println("Enter Second Number");
         int num2 = sc.nextInt();
 
-        System.out.println("Enter Operation(+,-,*,/,%):");
+        System.out.println("Enter Operator(+,-,*,/,%):");
         char op = sc.next().charAt(0);
 
         switch (op){
