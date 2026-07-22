@@ -1,0 +1,22 @@
+Function is a block of code that takes input and perform operations and produce the output
+
+for example phone takes input from our finger or thumb to increase and decrease volume
+
+each button have its own specific work
+
+SYNTAX
+
+public static returnType FunctionName(type arg1, type arg2){
+operation.-----------------
+}
+
+returnType = int, float, string etc...
+void = no return.
+
+public and static are keywords.
+
+FunctionName =  firstname, rollno, printname etc. Name should specify what this function do.
+
+args = inputs
+
+type arg1 = (int age, float temp)
